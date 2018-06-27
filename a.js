@@ -8,3 +8,4 @@ console.log("20:58 解决每次push都要输入用户名和密码的问题，因
 console.log("21:39 重新设置SSH Key,添加公开密钥")
 console.log("22:12 删除远程分支feature-D 命令：git push origin :feature-D")
 console.log("22:17 远程添加一行，通过git fetch origin dev更新代码到本地，再git merge FETCH_HEAD合并")
+console.log("22:21 现在本地添加一行，并提交到远程，明天用别的电脑fetch下来")

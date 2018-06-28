@@ -12,3 +12,4 @@ console.log("22:21 现在本地添加一行，并提交到远程，明天用别�
 console.log("22:32 修改本地Git的配置邮箱和GitHub上面一致")
 
 console.log("6/28 10:11 从远程fetch到本地 然后合并到master分支")
+console.log("10:27 增加一行")

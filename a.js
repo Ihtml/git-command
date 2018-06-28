@@ -10,3 +10,5 @@ console.log("22:12 删除远程分支feature-D 命令：git push origin :feature
 console.log("22:17 远程添加一行，通过git fetch origin dev更新代码到本地，再git merge FETCH_HEAD合并")
 console.log("22:21 现在本地添加一行，并提交到远程，明天用别的电脑fetch下来")
 console.log("22:32 修改本地Git的配置邮箱和GitHub上面一致")
+
+console.log("6/28 10:11 从远程fetch到本地 然后合并到master分支")

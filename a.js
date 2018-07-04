@@ -14,3 +14,6 @@ console.log("22:32 修改本地Git的配置邮箱和GitHub上面一致")
 console.log("6/28 10:11 从远程fetch到本地 然后合并到master分支")
 console.log("10:27 增加一行")
 console.log("10:45 新增分支devb进行测试 并push到origin")
+
+console.log("7/4 17:40 设置github上1tab=4space，在仓库的根目录增加.editorconfig文件，并在sublime用户设置里增加以下两行代码")
+//设置tab为2个空格时："tab_size": 4,  "translate_tabs_to_spaces":  true,设置tab为2个空格时："tab_size": 2,  "translate_tabs_to_spaces":  true"
